@@ -1,6 +1,6 @@
 ## Genotyping_Filters.sh
 
-Bash pipeline describing all steps to obtain the RADseq genotypes.
+Bash pipeline describing all steps to obtain the RADseq genotypes (contains different concatenated slurm jobs and their running information).
 
 
 ## PopulationGeneticsAnalyses.R
@@ -37,3 +37,4 @@ Contains all variables for each bat captured:
 - meanCT_Bat = mean CT value for qPCR detecting M. daubentonii DNA
 
 - meanQuantity_Bat = mean quantitiy value for qPCR detecting M. daubentonii DNA
+
