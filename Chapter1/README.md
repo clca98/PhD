@@ -1,4 +1,4 @@
-*Dataset1_Resistance_Haplotypes_Microsat_Coord.xlsx
+##Dataset1_Resistance_Haplotypes_Microsat_Coord.xlsx
 
 First sheet: Haplotypes_mtDNA_Resistance
 - Sample Name = number depicting sample ID
@@ -18,16 +18,17 @@ Coordinates for each sampling sites
 - Approx. = the coordinates were approximated because the exact sampling location was not available
 
 
-*Dataset2_COI16S_sequences_lectularius.nexus
+##Dataset2_COI16S_sequences_lectularius.nexus
 
 Concatenated sequences of COI and 16S mtDNA sequences of Cimex lectularius
 
 
-*Dataset3_Microsatdataset.txt
+##Dataset3_Microsatdataset.txt
 
 Dataset of microsatellites alleles for each loci and individuals.
 
 
-*Rscript_Chapter1.R
+##Rscript_Chapter1.R
+
 
 R script with all the analyses for this study.
