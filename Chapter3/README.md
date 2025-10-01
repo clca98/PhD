@@ -1,18 +1,19 @@
-*BatFly_Genotyping_Filtering.sh
+## BatFly_Genotyping_Filtering.sh
 
-Bash pipeline describing all steps to obtain the RADseq genotypes of Nycteribia kolenatii.
-
-
-*BatFly_PopGenAnalyses.R
-
-R script of all the population genetics analyses of Nycteribia kolenatii.
+Bash pipeline describing all steps to obtain the RADseq genotypes of *Nycteribia kolenatii* (contains different concatenated slurm jobs and their running information).
 
 
-*WingMite_Genotyping_Filtering.sh
+## BatFly_PopGenAnalyses.R
 
-Bash pipeline describing all steps to obtain the RADseq genotypes of Spinturnix andegavinus.
+R script of all the population genetics analyses of *Nycteribia kolenatii*.
 
 
-*WingMite_PopGenAnalyses.R
+## WingMite_Genotyping_Filtering.sh
 
-R script of all the population genetics analyses of Spinturnix andegavinus.
+Bash pipeline describing all steps to obtain the RADseq genotypes of *Spinturnix andegavinus* (contains different concatenated slurm jobs and their running information).
+
+
+## WingMite_PopGenAnalyses.R
+
+
+R script of all the population genetics analyses of *Spinturnix andegavinus*.
