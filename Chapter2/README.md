@@ -1,19 +1,19 @@
-*Genotyping_Filters.sh
+## Genotyping_Filters.sh
 
 Bash pipeline describing all steps to obtain the RADseq genotypes.
 
 
-*PopulationGeneticsAnalyses.R
+## PopulationGeneticsAnalyses.R
 
 R script of all the population genetics analyses of Myotis daubentonii.
 
 
-*InfectionDynamicsAnalyses_Ch2.R
+## InfectionDynamicsAnalyses_Ch2.R
 
 R script of all the analyses for the infection dynamics part.
 
 
-*Bat_Infection_ALL.csv
+## Bat_Infection_ALL.csv
 
 Contains all variables for each bat captured:
 - ID = A number depicting the ID of the bat
@@ -35,4 +35,5 @@ Contains all variables for each bat captured:
 - meanCT_Poly = mean CT value for qPCR detecting P. murinus DNA
 - meanQuantity_Poly = mean quantitiy value for qPCR detecting P. murinus DNA
 - meanCT_Bat = mean CT value for qPCR detecting M. daubentonii DNA
+
 - meanQuantity_Bat = mean quantitiy value for qPCR detecting M. daubentonii DNA
