@@ -1,7 +1,7 @@
-*Dataset1_CaptureFieldwork.xlsx
+## *Dataset1_CaptureFieldwork.xlsx
 
 Contains all variables for each bat captured:
-- Species = M. daubentonii
+- Species = *M. daubentonii*
 - ID = A number depicting the ID of the bat
 - Recapture = YES if the bat was recaptured
 - Date = the date of the capture
@@ -12,18 +12,19 @@ Contains all variables for each bat captured:
 - Age = JUV for juveniles, SAD for subadults and AD for adults
 - AB = length of the forearm (in mm)
 - Mass = mass of the bat (in g)
-- Spx_tot = number of Spinturnix andegavinus on each individual
-- Nyct_tot = number of Nycteribia kolenatii on each individual
+- Spx_tot = number of *Spinturnix andegavinus* on each individual
+- Nyct_tot = number of *Nycteribia kolenatii* on each individual
 - Tiques = number of ticks if found
-- Infect_Status = Infecte if infected by Polychromophilus murinus, NoInfect if not
+- Infect_Status = Infecte if infected by *Polychromophilus murinus*, NoInfect if not
 - N.Run = Type of qPCR run
 - ID = ID of the bat
-- meanCT_Poly = mean CT value for qPCR detecting P. murinus DNA
-- meanQuantity_Poly = mean quantitiy value for qPCR detecting P. murinus DNA
-- meanCT_Bat = mean CT value for qPCR detecting M. daubentonii DNA
-- meanQuantity_Bat = mean quantitiy value for qPCR detecting M. daubentonii DNA
+- meanCT_Poly = mean CT value for qPCR detecting *P. murinus* DNA
+- meanQuantity_Poly = mean quantitiy value for qPCR detecting *P. murinus* DNA
+- meanCT_Bat = mean CT value for qPCR detecting *M. daubentonii* DNA
+- meanQuantity_Bat = mean quantitiy value for qPCR detecting *M. daubentonii* DNA
 
 
-*InfectionDynamicsAnalyses_Ch4.R
+## InfectionDynamicsAnalyses_Ch4.R
+
 
 R script with all the analyses for Chapter 4
