@@ -5,7 +5,7 @@ First sheet: Haplotypes_mtDNA_Resistance
 - Site Number = sampling site ID
 - Site = sampling site ID detailed
 - Capture Date = date of sampling
-- Host species = H. sapiens (human) or M. myotis (bat)
+- Host species = *H. sapiens* (human) or *M. myotis* (bat)
 - Haplotype = Haplotype ID after concatenating 16S and COI mtDNA sequences
 - Resistance = Different haplotypes for the 3 amino acids
 - V419L = Resistance haplotype for the amino acid 419
@@ -20,7 +20,7 @@ Coordinates for each sampling sites
 
 ## Dataset2_COI16S_sequences_lectularius.nexus
 
-Concatenated sequences of COI and 16S mtDNA sequences of Cimex lectularius
+Concatenated sequences of COI and 16S mtDNA sequences of *Cimex lectularius*
 
 
 ## Dataset3_Microsatdataset.txt
@@ -32,4 +32,5 @@ Dataset of microsatellites alleles for each loci and individuals.
 
 
 R script with all the analyses for this study.
+
 
